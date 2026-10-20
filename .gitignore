@@ -1,0 +1,13 @@
+# 依赖：别人 clone 后自己跑 npm install
+node_modules/
+
+# 个人数据：终端历史、笔记、会话日志 —— 里面有本机路径、命令记录，绝不公开
+data/
+
+# 本地验证产物（无头浏览器 profile 等）
+.tmp-verify/
+
+# 杂项
+*.log
+Thumbs.db
+.DS_Store
